@@ -1,5 +1,5 @@
-# AirBnB Clone Version 3
+# AirBnB Clone - The Console
 
 ## Author
-- Aaron Tamirat
+Aaron Tamirat - [Github](https://github.com/Aarontamirat) 
 
